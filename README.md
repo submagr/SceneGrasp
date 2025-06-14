@@ -2,11 +2,11 @@
 
 <strong>Real-time Simultaneous Multi-Object 3D Shape Reconstruction, 6DoF Pose Estimation and Dense Grasp Prediction</strong>
 <br>
-[[Project Page]](https://samsunglabs.github.io/SceneGrasp-project-page) [[ArXiv]](https://arxiv.org/abs/2305.09510)
+[[Project Page]](https://submagr.github.io/SceneGrasp-Project-Page/) [[ArXiv]](https://arxiv.org/abs/2305.09510)
 <br>
-[Shubham Agrawal](https://www.agshubh.com), [Nikhil Chavan-Dafle](https://www.linkedin.com/in/nikhilcd),
+[Shubham Agrawal](https://www.agshubh.com), [Nikhil Chavan-Dafle](https://nikhilcd.com/),
 [Isaac Kasahara](https://kasai2020.github.io/), [Selim Engin](https://ksengin.github.io/),
-[Jinwook Huh](https://sites.google.com/view/jinwookhuh/), [Volkan Isler](https://www-users.cse.umn.edu/~isler/)
+[Jinwook Huh](https://sites.google.com/view/jinwookhuh/), [Volkan Isler](https://www.cs.utexas.edu/~isler/)
 <br>
 [Samsung AI Center, New York](https://research.samsung.com/aicenter_ny)
 
